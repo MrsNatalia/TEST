@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ����������ирорроороророрлор
+=======
+testfgfdgdfgfyghhgg
+>>>>>>> parent of 1f56edb... апапа
