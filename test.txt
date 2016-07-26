@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 ����������ирорроороророрлор
-=======
-testfgfdgdfgf
->>>>>>> parent of e4f2ca2... Revert "dffddf"
